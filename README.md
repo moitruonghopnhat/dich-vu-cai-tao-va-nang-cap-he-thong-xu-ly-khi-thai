@@ -209,6 +209,3 @@ Việc cải tạo và nâng cấp hệ thống xử lý khí thải không ch�
 
 [![Liên hệ dịch vụ cải tạo và nâng cấp hệ thống xử lý khí thải](https://moitruonghopnhat.com/uploads/images/CTA/CTA-cai-tao-nang-cap-he-thong-xu-ly-khi-thai.jpg)](tel:0938857768)
 
----
-
-> Nội dung được biên tập và chuẩn hóa từ tài liệu giới thiệu dịch vụ của **Công ty Cổ phần Xây dựng và Công nghệ Môi trường Hợp Nhất** để phù hợp với định dạng Markdown và hiển thị trên GitHub.
